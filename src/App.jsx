@@ -7,7 +7,7 @@ const App = () => {
 	return (
     <div>
       <section className='h-screen bg-green-600 p-20 m-8'>
-        <p>
+        <p className='text-yellow-400 border-4 border-orange text-sm lg:text-lg'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
           voluptas harum quis perspiciatis porro consequuntur ratione odit in,
           quae minus rerum, incidunt esse officia earum quidem voluptatem, atque
